@@ -1,9 +1,9 @@
-ATM Project
+# ATM Project
 
-###Bonus:
+## Bonus:
 1.Design Pattern - Factory Pattern
 
-###Description of ood classes:
+## Description of ood classes:
 
 ATM.java: A ATM object. It serves as a bridge between Database and GUI. It handle data passed in by GUI and send it to database
 for verification/action then pass the verification result/action result back to GUI.
